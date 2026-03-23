@@ -1,0 +1,2 @@
+# tamagochi
+my taagochi
